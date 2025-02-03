@@ -19,3 +19,6 @@ Saved
 /Content/StarterContent
 /Content/ThirdPerson
 Config/DefaultEditor.ini
+
+# Ignore build output
+/Build/
